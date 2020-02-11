@@ -1,0 +1,7 @@
+import turtle
+paper=turtle.Turtle()
+mycolor=['red','blue','black','yellow']
+for i in mycolor:
+pen.color(i)
+pen.forward(100)
+pen.right(90)
